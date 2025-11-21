@@ -1,0 +1,10 @@
+Arisiima Daisy
+nakanja Martha
+Benjamin Kizito
+
+lessons
+    creating an account
+    git clone
+    git commit
+    git add
+    
